@@ -1,2 +1,2 @@
-# ReactProjects
-List of Reat and Mern Stack Projects
+# Tinder-clone
+Implementation of Tinder app 
